@@ -24,8 +24,8 @@ const About = () => {
                                 libraries.
                             </p>
                             <p className="mb-8 text-1xl">
-                                I have worked with <span className="text-blue-500">React</span>, <span className="text-blue-500">Next</span>, <span className="text-blue-500">Typescript</span>, <span className="text-blue-500">Node.js</span> and <span className="text-blue-500">Tailwind.css</span>. Currently I study <span className="text-blue-500">Python</span> and <span className="text-blue-500">Flask</span> for
-                                improvement of my backend abilities.
+                                I have worked with <span className="text-blue-500">React</span>, <span className="text-blue-500">Python</span>, <span className="text-blue-500">Typescript</span>, <span className="text-blue-500">Node.js</span> and <span className="text-blue-500">Tailwind.css</span>. Currently I study <span className="text-blue-500">Next</span> and <span className="text-blue-500">Redux</span> for
+                                improvement of my abilities.
                             </p>
                         </div>
                     </div>
